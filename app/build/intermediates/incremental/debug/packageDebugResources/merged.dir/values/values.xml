@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">News Headlines</string>
+    <string name="default_web_client_id" translatable="false">223654311832-qkbbanmtba4s04k4dr3858ddkolpl09o.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">223654311832</string>
+    <string name="google_api_key" translatable="false">AIzaSyAKUfY2DrMCWD8EZ1-sHK_KYONbSuil80o</string>
+    <string name="google_app_id" translatable="false">1:223654311832:android:41073a660387ada0d89ded</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAKUfY2DrMCWD8EZ1-sHK_KYONbSuil80o</string>
+    <string name="google_storage_bucket" translatable="false">latest-news-headlines-33669.appspot.com</string>
+    <string name="project_id" translatable="false">latest-news-headlines-33669</string>
+    <string name="title_activity_display_news">DisplayNews</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <style name="Theme.NewsHeadlines" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>
